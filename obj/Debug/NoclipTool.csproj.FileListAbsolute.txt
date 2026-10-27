@@ -1,0 +1,9 @@
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\bin\Debug\NoclipTool.dll
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\bin\Debug\NoclipTool.pdb
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.csproj.AssemblyReference.cache
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.AssemblyInfoInputs.cache
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.AssemblyInfo.cs
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.csproj.CoreCompileInputs.cache
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.dll
+C:\Users\nezuma\Desktop\repos\plugins\NoclipTool\obj\Debug\NoclipTool.pdb

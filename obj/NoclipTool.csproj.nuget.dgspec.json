@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nezuma\\Desktop\\repos\\plugins\\NoclipTool\\NoclipTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nezuma\\Desktop\\repos\\plugins\\NoclipTool\\NoclipTool.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nezuma\\Desktop\\repos\\plugins\\NoclipTool\\NoclipTool.csproj",
+        "projectName": "NoclipTool",
+        "projectPath": "C:\\Users\\nezuma\\Desktop\\repos\\plugins\\NoclipTool\\NoclipTool.csproj",
+        "packagesPath": "C:\\Users\\nezuma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nezuma\\Desktop\\repos\\plugins\\NoclipTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nezuma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
