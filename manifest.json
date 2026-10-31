@@ -1,0 +1,7 @@
+{
+  "name": "NoclipTool",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/nezuma/ValheimNoclipTool",
+  "description": "A simple noclip/fly mode for Valheim with adjustable speed, collision bypass, and an in-game GUI.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2351"]
+}
